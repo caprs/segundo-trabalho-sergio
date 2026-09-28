@@ -951,14 +951,16 @@ O plágio poderá resultar na atribuição de **nota zero**, conforme as regras 
 
 | Critério | Valor |
 |---|---:|
-| Estrutura e organização do artigo | 0,4 |
-| Formatação conforme as orientações | 0,6 |
-| Qualidade da pesquisa e fundamentação teórica | 0,7 |
-| Apresentação dos princípios SOLID | 0,4 |
-| Apresentação da Clean Architecture | 0,4 |
-| Relação entre SOLID e Clean Architecture | 0,4 |
-| Citações, referências e conclusão | 0,1 |
-| **TOTAL** | **3,0** |
+| Estrutura e organização do artigo | 1,0 |
+| Formatação conforme as orientações | 1,5 |
+| Qualidade da pesquisa e fundamentação teórica | 2,0 |
+| Apresentação dos princípios SOLID | 1,25 |
+| Apresentação da Clean Architecture | 1,25 |
+| Relação entre SOLID e Clean Architecture | 1,5 |
+| Citações, referências e conclusão | 1,5 |
+| **TOTAL** | **10,0** |
+
+A nota da rubrica será atribuída em uma escala de **0 a 10,0** e convertida proporcionalmente para o valor de **3,5 pontos** na média do 1º bimestre. Para calcular a contribuição do trabalho, multiplique a nota obtida por **0,35**.
 
 ---
 
